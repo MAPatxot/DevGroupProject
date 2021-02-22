@@ -9,7 +9,8 @@ Future Issues to Resolve : <details>
            <p> :small_orange_diamond: Find a way to anchor the DropDown Menu with "View All" button</p>
            <p> :small_orange_diamond: Clean up code and comments</p>
            <p> :small_orange_diamond: Look into VStack</p>
-           <p> :small_orange_diamond: See why text from the menu is cut, might be an issue in my XIB</p>
+           <p> :small_orange_diamond: See why text from the menu is cut, might be an issue in my XIB (constraints?)</p>
+           <p> :small_orange_diamond: Get the "master file" to work, might now be an issue with the podfiles not being installed</p>
          </details>
 
 Updates : <details>
