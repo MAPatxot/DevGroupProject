@@ -55,7 +55,7 @@ class ViewController: UIViewController {
         
         // Configuring previous code with button
         
-        let myView = viewAllButton
+        _ = viewAllButton
         
 //        let myView = UIView(frame: navigationController?.navigationBar.frame ?? .zero)
         
@@ -76,7 +76,7 @@ class ViewController: UIViewController {
         }
         
         // Adding an anchor to note where the menu should come from
-//        menu.anchorView = topView
+        menu.anchorView = viewAllButton
         
 //        let gesture = UILongPressGestureRecognizer(target: self, action: #selector(didTapTopItem))
         
