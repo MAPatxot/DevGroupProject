@@ -9,6 +9,7 @@ Future Issues to Resolve : <details>
            <p> :small_orange_diamond: Find a way to anchor the DropDown Menu with "View All" button</p>
            <p> :small_orange_diamond: Clean up code and comments</p>
            <p> :small_orange_diamond: Look into VStack</p>
+           <p> :small_orange_diamond: Erase added images from menu, to stop the words from cutting off</p>
          </details>
 
 Updates : <details>
