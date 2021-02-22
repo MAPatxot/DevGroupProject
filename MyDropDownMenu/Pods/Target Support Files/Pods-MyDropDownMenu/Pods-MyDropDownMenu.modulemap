@@ -1,0 +1,6 @@
+framework module Pods_MyDropDownMenu {
+  umbrella header "Pods-MyDropDownMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
