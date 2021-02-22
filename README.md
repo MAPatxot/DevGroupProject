@@ -11,10 +11,10 @@ Future Issues to Resolve : <details>
            <p> :small_orange_diamond: Look into VStack</p>
          </details>
 
-Future Issues to Resolve : <details>
+Updates : <details>
            <summary> As of Febuary 22, 2021</summary>
            <p> </p>
-           <p> :small_red_diamond: Connected my menu and button using an "anchorView"</p>
+           <p> :small_orange_diamond: Connected my menu and button using an "anchorView"</p>
          </details>
 
 
