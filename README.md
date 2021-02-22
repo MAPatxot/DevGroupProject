@@ -4,11 +4,15 @@
 
 
 Future Issues to Resolve : <details>
-           <summary> As of Febuary 19, 2021</summary>
+           <summary> As of Febuary 16, 2021</summary>
            <p> </p>
            <p> :small_orange_diamond: Find a way to anchor the DropDown Menu with "View All" button</p>
            <p> :small_orange_diamond: Clean up code and comments</p>
            <p> :small_orange_diamond: Look into VStack</p>
+           
+           <summary> Update as of Febuary 22, 2021 </summary>
+           <p> </p>
+           <p> :small_orange_diamond: Find a way to anchor the DropDown Menu with "View All" button</p>
          </details>
 
 # Main Dashboard
