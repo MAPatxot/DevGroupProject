@@ -15,7 +15,7 @@ Future Issues to Resolve : <details>
 Updates : <details>
            <summary> As of Febuary 22, 2021</summary>
            <p> </p>
-           <p> :small_orange_diamond: Connected my menu and button using an "anchorView"</p>
+           <p> :small_orange_diamond: Connected my menu and button using an "anchorView"; menu still covers the "View All" button instead of being underneath</p>
          </details>
 
 
