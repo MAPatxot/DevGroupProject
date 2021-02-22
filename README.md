@@ -1,8 +1,8 @@
 # DevGroupProject
 
-First Task:
+# First Task:
 
-Create a DropDown Menu from the "View All" Button
+## Create a DropDown Menu from the "View All" Button
 
 
 Future Issues to Resolve : <details>
