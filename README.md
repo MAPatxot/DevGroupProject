@@ -8,6 +8,7 @@ Future Issues to Resolve : <details>
            <p> </p>
            <p> :small_orange_diamond: Find a way to anchor the DropDown Menu with "View All" button</p>
            <p> :small_orange_diamond: Clean up code and comments</p>
+           <p> :small_orange_diamond: Look into VStack</p>
          </details>
 
 # Main Dashboard
