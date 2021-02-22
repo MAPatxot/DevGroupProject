@@ -4,7 +4,6 @@ First Task:
 
 Create a DropDown Menu from the "View All" Button
 
-# ----------------------------------------------  
 
 Future Issues to Resolve : <details>
            <summary> As of Febuary 19, 2021</summary>
